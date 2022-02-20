@@ -6,4 +6,5 @@
 
 Escuela de Ingenieros es un proyecto de educación universitaria y profesional orientada a la programación y uso de herramientas tecnológicas, enfocado en las ingenierías y ciencias.
 
+- ✅ Próximamente estaremos añadiendo repositorios de distintos temas de ingeniería.
 - 📫 Puedes contactarnos/seguirnos en [Facebook](https://www.facebook.com/escueladeingenierosec), [Instagram](https://www.instagram.com/escueladeingenierosec/) y [Gmail](mailto:coordinacion.esc.ingenieros@gmail.com) ✨.
